@@ -1,0 +1,1 @@
+# Pencarian-Akar-Persamaan-Non-Linear-dengan-metode-Bisection-Newton-Raphson-dan-Secant
